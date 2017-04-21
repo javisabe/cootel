@@ -1,34 +1,23 @@
 #EXTM3U
 #EXTINF:-1,Canal 2
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
 #EXTINF:-1,Canal 4
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
 #EXTINF:-1,Canal 6
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
 #EXTINF:-1,Canal 8
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
 #EXTINF:-1,Canal 9
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 #EXTINF:-1,Canal 10
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
 #EXTINF:-1,Canal 11
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
 #EXTINF:-1,Canal 13
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
 #EXTINF:-1,Canal 15
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-15/playlist.m3u8
 #EXTINF:-1,Canal 17
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-17/playlist.m3u8
 #EXTINF:-1,Canal 25
-#EXTVLCOPT:network-caching=1000
 http://138.117.4.70:8079/streams/d/Canal-25/playlist.m3u8
